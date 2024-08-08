@@ -1,4 +1,4 @@
-# CalculatorLabAssignment
+# Mini Calculator
 
 ## Overview
 
@@ -6,7 +6,7 @@ This repository contains a C# Windows Forms application for a basic calculator. 
 
 ## Project Details
 
-- **Project Name:** CalculatorLabAssignment
+- **Project Name:** Mini Calculator
 - **Development Environment:** Microsoft Visual Studio
 - **Language:** C#
 - **Platform:** Windows Forms
