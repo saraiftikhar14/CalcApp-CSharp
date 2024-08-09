@@ -22,8 +22,3 @@ The calculator application includes:
 
 The task is to create a simple calculator application that performs basic arithmetic operations and displays the results. This project was completed using Windows Forms in C#.
 
-## How to Run
-
-1. **Clone the Repository:** 
-   ```bash
-   git clone https://github.com/yourusername/CalculatorLabAssignment.git
